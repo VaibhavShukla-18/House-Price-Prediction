@@ -1,0 +1,7 @@
+Feature,Category,Average Price,Median Price,Number of Properties
+Location,City Center,33149793.81443299,34970000.0,97
+Location,Rural,16461428.57142857,16052500.0,98
+Location,Suburb,25108071.42857143,24030000.0,105
+Property Type,Apartment,27124203.296703298,25642500.0,91
+Property Type,House,22876915.887850467,20575000.0,107
+Property Type,Villa,24989852.94117647,21810000.0,102

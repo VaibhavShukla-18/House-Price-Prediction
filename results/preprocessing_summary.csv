@@ -1,0 +1,12 @@
+Item,Value
+Original Rows,300
+Original Columns,8
+Predictor Features,6
+Target Variable,Price
+Training Rows,240
+Testing Rows,60
+Numerical Features,"Area, Bedrooms, Bathrooms, Age"
+Categorical Features,"Location, Property_Type"
+Processed Features,8
+Train-Test Ratio,80:20
+Random State,42
